@@ -42,6 +42,7 @@
 <ul>
   <li>E-mail: xamtehwt@gmail.com</li>
   <li>Phone number: +34 627053374 (can use WhatsApp and Telegram with it)</li>
+  <li><a href="https://www.linkedin.com/feed/?trk=opento_lp">LinkedIn</a></li>
 </ul>
 
 
