@@ -1,3 +1,5 @@
+<img>https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic</img>
+
 <h3>Hello, I'm Matthew Bwye Lera</h3>
 
 <p>I'm a student, studying Software Engineering.</p>
@@ -23,7 +25,7 @@
 <h3>Contact information</h3>
 <ul>
   <li>E-mail: xamtehwt@gmail.com</li>
-  <li>Phone number: +34 627053374</li>
+  <li>Phone number: +34 627053374 (can use WhatsApp and Telegram with it)</li>
 </ul>
 
 
