@@ -3,7 +3,7 @@
 <p>I'm a student, studying Software Engineering.</p>
 
 <p>I'm currently studying at the University of Seville (Spain). Right now, I'm an exchange student at the University of Stavanger (Norway), I'll stay here until the end of June 2022, and I'm expecting to learn a lot in my time here.</p>
-
+<br>
 <div>
   <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=plastic">
   <img src="https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic">
