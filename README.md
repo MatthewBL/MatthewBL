@@ -4,7 +4,7 @@
 
 <p>I'm currently studying at the University of Seville (Spain). Right now, I'm an exchange student at the University of Stavanger (Norway), I'll stay here until the end of June 2022, and I'm expecting to learn a lot in my time here.</p>
 
-<p>I would like to work developing apps that help people learn new things, not only at schools and universities, but also businesses that need their employees to learn some new technology, framework or work methodology. I'm aiming to make this possible through gamification, which is why I'm very inclined to studying game development in the future.</p>
+<p>I would like to work developing apps that help people learn new things, not only for schools and universities, but also for businesses that need their employees to learn some new technology, framework or work methodology. I'm aiming to make this possible through gamification, which is why I'm very inclined to studying game development in the future.</p>
 <br>
 <div>
   <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=plastic">
