@@ -1,4 +1,4 @@
-</img src='https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic'>
+<img src="https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic">
 
 <h3>Hello, I'm Matthew Bwye Lera</h3>
 
