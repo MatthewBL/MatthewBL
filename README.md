@@ -4,19 +4,21 @@
 
 <p>I'm currently studying at the University of Seville (Spain). Right now, I'm an exchange student at the University of Stavanger (Norway), I'll stay here until the end of June 2022, and I'm expecting to learn a lot in my time here.</p>
 
-<img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-40E0D0?logo=csharp&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-Javascript-FFD700?logo=javascript&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-jQuery-5F9EA0?logo=jquery&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-Python-4682B4?logo=python&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-Visual%20Studio-9370DB?logo=visualstudio&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-Eclipse%20IDE-FF8C00?logo=eclipse&logoColor=purple&style=plastic">
-<img src="https://img.shields.io/badge/-Spring-00FF7F?logo=spring&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-SQL-DC143C?logo=oracle&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-HTML-FF7F50?logo=html5&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-CSS-00BFFF?logo=css3&logoColor=white&style=plastic">
-<img src="https://img.shields.io/badge/-PHP-6A5ACD?logo=php&logoColor=white&style=plastic">
+<div>
+  <img src="https://img.shields.io/badge/-Unity-000000?logo=unity&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Java-FF5733?logo=java&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-40E0D0?logo=csharp&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Javascript-FFD700?logo=javascript&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-jQuery-5F9EA0?logo=jquery&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Python-4682B4?logo=python&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Visual%20Studio-9370DB?logo=visualstudio&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-Eclipse%20IDE-FF8C00?logo=eclipse&logoColor=purple&style=plastic">
+  <img src="https://img.shields.io/badge/-Spring-00FF7F?logo=spring&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-SQL-DC143C?logo=oracle&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-HTML-FF7F50?logo=html5&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-CSS-00BFFF?logo=css3&logoColor=white&style=plastic">
+  <img src="https://img.shields.io/badge/-PHP-6A5ACD?logo=php&logoColor=white&style=plastic">
+</div>
 
 <h3>What I do as a future software engineer</h3>
 
