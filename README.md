@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h3>Hello, I'm Matthew Bwye Lera</h3>
 
 <p>I'm a student, studying Software Engineering.</p>
@@ -42,8 +44,10 @@
 <ul>
   <li>E-mail: xamtehwt@gmail.com</li>
   <li>Phone number: +34 627053374 (can use WhatsApp and Telegram with it)</li>
-  <li><a href="https://www.linkedin.com/feed/?trk=opento_lp">LinkedIn</a></li>
 </ul>
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="matthew-bwye-lera-29b98421a" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://no.linkedin.com/in/matthew-bwye-lera-29b98421a?trk=profile-badge">Matthew Bwye Lera</a></div>
+              
 
 
 <!--
